@@ -1,0 +1,74 @@
+.navbar-brand,
+.nav-link {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: x-large;
+    font-weight: 800;
+    margin-right: 10px;
+    cursor: pointer;
+    color: rgb(34, 117, 130);
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 600;
+    color: rgb(34, 117, 130);
+}
+
+h1 {
+    font-family: "Source Sans Pro", sans-serif !important;
+    font-weight: 700;
+    color: rgb(34, 117, 130);
+}
+
+.display-1 {
+    font-family: "Source Sans Pro", sans-serif !important;
+    font-weight: 700;
+    color: rgb(34, 117, 130);
+    font-size: 600%;
+}
+
+p {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+}
+
+div {
+    font-family: "Source Sans Pro", sans-serif !important;
+}
+
+.bg-dark,
+.navbar-dark {
+    color: blanchedalmond;
+}
+
+.vh-80 {
+    min-height: 80vh;
+}
+
+body {
+    background-color: rgb(247, 255, 247);
+}
+
+@media only screen and (min-width: 768px){
+    .root {
+    margin-left: 10%;
+    margin-right: 10%;
+    }
+}
+
+.icon {
+    height: 50px;
+    width: auto;
+    margin-right: 2em;
+}
+
+.project-image {
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
+    max-height: 20vw;
+    max-width: 30vw;
+}
