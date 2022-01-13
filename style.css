@@ -5,7 +5,7 @@
     font-weight: 800;
     margin-right: 10px;
     cursor: pointer;
-    color: rgb(34, 117, 130);
+    color: rgb(97, 66, 19);
 }
 
 h2,
@@ -15,19 +15,19 @@ h5,
 h6 {
     font-family: "Source Sans Pro", sans-serif;
     font-weight: 600;
-    color: rgb(34, 117, 130);
+    color: rgb(97, 66, 19);
 }
 
 h1 {
     font-family: "Source Sans Pro", sans-serif !important;
     font-weight: 700;
-    color: rgb(34, 117, 130);
+    color: rgb(97, 66, 19);
 }
 
 .display-1 {
     font-family: "Source Sans Pro", sans-serif !important;
     font-weight: 700;
-    color: rgb(34, 117, 130);
+    color: rgb(97, 66, 19);
     font-size: 600%;
 }
 
@@ -50,7 +50,7 @@ div {
 }
 
 body {
-    background-color: rgb(247, 255, 247);
+    background-color: rgb(245, 213, 176);
 }
 
 @media only screen and (min-width: 768px){
@@ -64,6 +64,7 @@ body {
     height: 50px;
     width: auto;
     margin-right: 2em;
+    color: blueviolet;
 }
 
 .project-image {
